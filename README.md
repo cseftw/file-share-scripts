@@ -8,7 +8,8 @@
 
 **You need to have uuid-runtime package for supfile script to work so install it using `sudo apt install uuid-runtime`**
 
-For making it easy add these two scripts to `/usr/local/bin`and make it executable using chmod + x so that you can access it from anywhere in system. 
+For making it easy add these two scripts to `/usr/local/bin` and make it executable so that you can access it from anywhere in system 
 
-**When you will download files using `supfile` and then unzip that zip file, it will automatically create a tmp folder inside ur file system and inside that tmp folder will be a unique a `uuid` and inside that uuid will be ur file.**
-**`upfile` will directly download that file in your filesystem**
+**When you will download files using `supfile` and then unzip that zip file, it will automatically create a tmp folder inside ur file system and inside that tmp folder will be a unique a `uuid` and inside that uuid will be ur file.** 
+
+**`upfile` will directly download that file in your filesystem** 
