@@ -13,3 +13,7 @@ For making it easy add these two scripts to `/usr/local/bin` and make it executa
 **When you will download files using `supfile` and then unzip that zip file, it will automatically create a tmp folder inside ur file system and inside that tmp folder will be a unique a `uuid` and inside that uuid will be ur file.** 
 
 **`upfile` will directly download that file in your filesystem** 
+
+`sharefile` uploads file to null server and copies link to clipboard .
+
+** Add script to `/usr/local/bin` to make it executable from anywhere in the system **
