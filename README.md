@@ -16,4 +16,4 @@ For making it easy add these two scripts to `/usr/local/bin` and make it executa
 
 `sharefile` uploads file to null server and copies link to clipboard .
 
-** Add script to `/usr/local/bin` to make it executable from anywhere in the system **
+**Add script to `/usr/local/bin` to make it executable from anywhere in the system**
